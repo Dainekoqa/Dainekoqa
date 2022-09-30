@@ -1,16 +1,20 @@
-### Hi there 👋
+Hey there! I'm Iryna.
+👨🏻‍💻  About Me
+🤔   Exploring new technologies and software testing.
+🎓   Studied International Business at Kyiv National University of Economic and Trade.
+💼   Worked as a Technical Support in TUI Ukraine.
+🌱   Learning more about Systems Design and Artificial Intelligence.  Sport and travelling as hobbies.
 
-<!--
-**Dainekoqa/Dainekoqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠  Tech Stack
+✍️ 
+    - Theoretical knowledge of software and web testing;
+    - Knowledge of the main types of testing;
+    - Writing and performing software test documentation;
+    - Understanding of test design techniques;
+💻   Jira, Mantis, Trello
+🌐   Jmeter, Postman 
+🛢    PostgreSQL, MySQL
+⚙️   Git, GitHub Markdown
+🔧   HTML, CSS, Java
+🖥   Agile, SCRUM, Teamwork
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
