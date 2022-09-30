@@ -18,3 +18,5 @@
 🔧   HTML, CSS, Java  
 🖥   Agile, SCRUM, Teamwork  
 
+
+*[🤝🏻  Connect with Me](https://www.linkedin.com/in/iryna-daineko-1b1204249/)*   
