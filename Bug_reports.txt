@@ -83,7 +83,6 @@ Actual result: HTML code on the main screen after changing language
 Expected result: There in no HTML code on the main screen after changing language
 
 
-
 Bug id: 6
 Severity: Minor
 Enviroment: Test
