@@ -21,7 +21,8 @@
 
 *[🤝🏻  Connect with Me](https://www.linkedin.com/in/iryna-daineko-1b1204249/)*   
 
-![Telegram_QR](https://user-images.githubusercontent.com/111451845/193654058-3de47d6a-0754-4a5f-9dad-51358925ef0a.jpg)  
+ ![Telegram_QR](https://user-images.githubusercontent.com/111451845/193654599-9ce61617-9319-4da4-8f7e-911a11812e55.jpg)  
+ 
 
 
 
