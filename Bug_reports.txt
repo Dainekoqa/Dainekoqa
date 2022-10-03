@@ -1,0 +1,113 @@
+Bug id: 1
+Severity: Major
+Enviroment: Test
+Summary: The informative message is not displayed on the registration page after entering incorrect data.
+
+Description: The informative message is not displayed on the registration page after entering incorrect data.
+Steps to reproduce:
+1. Open the registration page
+2.Enter invalid data into the "Email" required field.
+3.Click the “Create your 6pm account ” button.
+4.Pay attention to the “Email” field.
+
+Actual result: The registration form with invalid data is saved in the database after clicking the "Create your 6pm account" button.
+Expected result: The “Email” field is highlighted in red and the error message is displayed on the registration form after entering blank spaces and special characters into the “Email” field.
+
+
+Bug id: 2
+Severity: Major
+Enviroment: Test
+Summary: The informative message is not displayed on the registration page after entering incorrect data.
+
+Description: The informative message is not displayed on the registration page after entering incorrect data.
+
+Steps to reproduce:
+1.Open the registration page.
+2.Enter password less than 6 characters into the "Password" required field.
+3.Click the “Create your 6pm account ” button.
+4.Pay attention to the “Password” field.
+
+Actual result: The registration form with invalid data is saved in the database after clicking the "Create your 6pm account" button.
+Expected result: The “Password ” field is highlighted in red and the error message is displayed on the registration form after entering blank spaces less than 6 characters into the “Password ” field.
+
+
+Bug id: 3
+Severity: Minor
+Enviroment: Test
+Summary: One of the image is not displayed on the main page of the site.
+
+Description: One of the image is not displayed on the main page of the site.
+
+Steps to reproducе: 
+1. Open the site
+2. Pay attention to the empty field of the picture with the description "The dog and it's tail"
+
+Actual result: Empty field of the picture with the description "The dog and it's tail".
+Expected result:The banner image  with the description "The dog and it's tail" should be displayed on the main page of the site.
+
+
+Bug id: 4
+Severity: Minor
+Enviroment: Test
+Summary: Side menu disappeared after clicking on "Корзина" button inside user profile
+
+Additional info:
+Login email:wer23123123123wer@gmail.com
+Password:qweqwe
+
+Steps:
+1.Log in to the account
+2.Click on  "Корзина" button inside
+
+Actual result: Side menu disappeared after clicking on "Корзина" button inside user profile
+Expected result: Side menu not disappeared after clicking on "Корзина" button inside user profile
+
+
+Bug id: 5
+Severity: Minor
+Enviroment: Test
+Summary: HTML code on the main screen after changing language
+
+Additional info:
+reproduce for:
+-Español
+-Polish
+-Română
+
+Steps:
+1. Open main screen via link: https://foto-rc.fotobook-platform.com/create/book
+2. Select language (ex. Español )
+3. Take a look on header
+
+Actual result: HTML code on the main screen after changing language
+Expected result: There in no HTML code on the main screen after changing language
+
+
+
+Bug id: 6
+Severity: Minor
+Enviroment: Test
+Summary: The texts of errors on the “Зворотній зв’язок” form on the page https://kyiv.yee.org.tr/ in the UA version of the site were not translated into Ukrainian.
+Steps:
+1. Open the page https://kyiv.yee.org.tr/
+2.Scroll to the form “Зворотній зв’язок ”
+3.Click on the “Submit” button
+4. Pay attention to the language of the errors that appeared under the form fields
+
+Actual result: Errors are displayed in Turkish
+Expected result: Errors are displayed in Ukrainian
+
+
+Bug id: 7
+Severity: Critical
+Enviroment: Test
+Summary: Application crashes upon clicking the "Save" button while creating a new the user
+Steps:
+1. Login into the Application.
+2. Navigate to the Users Menu > New User
+3. Filled out all the user information fields.
+4. Clicked on the "Save" button.
+5. Pay attention on error page “404 Not Found…”
+
+Actual result:  Application crashes upon clicking the "Save" button while creating a new the user
+Expected Result: The successful message “New User has been created successfully” is displayed after clicking on the "Save" button
